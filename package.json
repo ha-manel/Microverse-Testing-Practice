@@ -1,0 +1,24 @@
+{
+  "name": "microverse-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ha-manel/Microverse-Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ha-manel/Microverse-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/ha-manel/Microverse-Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.17.9",
+    "jest": "^28.0.3"
+  }
+}
