@@ -2,7 +2,7 @@
 
 # Microverse-Testing-Practice
 
-> This is a Microverse (@microverseinc) exercice to practice using Jest for testing JavaScript functionalities.
+> This is a Microverse (@microverseinc) exercise to practice using Jest for testing JavaScript functionalities.
 
 ## Requirements
 
