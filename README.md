@@ -28,11 +28,11 @@ To setup the project locally: clone the repository using:
 ```
 git clone git@github.com:ha-manel/Microverse-Testing-Practice.git
 ```
-## Install dependencies
+### Install dependencies
 
 run : `npm install`
 
-## Run the tests
+### Run the tests
 
 run: `npm test`
 
